@@ -1,0 +1,1 @@
+# After initializing an ImageCaptioner instance, the encoded images from [Flickr8k dataset](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html) will be stored here for quick retrieval.
